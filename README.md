@@ -36,4 +36,3 @@ The core demo works locally after dependencies are installed. Internet is only n
 - `src/`: preprocessing, models, screening, database, translations
 - `data/`: synthetic demonstration CSV
 - `tests/`: basic tests
-- `docs/`: report and presentation source materials
